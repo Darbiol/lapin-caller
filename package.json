@@ -1,0 +1,27 @@
+{
+  "name": "lapin-caller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniel arbiol",
+  "license": "MIT",
+  "dependencies": {
+    "@sinet/lapin": "^4.7.10",
+    "@sinet/lapin-config": "^3.0.2",
+    "@sinet/logger": "github:sinet/logger",
+    "bluebird": "^3.4.6",
+    "countryjs": "^1.5.2",
+    "joi": "^9.1.0",
+    "lapin": "^6.0.2",
+    "lodash": "^4.16.4",
+    "moment": "^2.15.2",
+    "moment-duration-format": "^1.3.0",
+    "node-uuid": "^1.4.7",
+    "path": "^0.12.7",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
